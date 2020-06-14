@@ -1,0 +1,11 @@
+Package: fma
+Type: Package
+Title: Model average methods 
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: LiuWenli <1585282623@qq.com>
+Description: including MMA,JMA,SAIC,SBIC.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
